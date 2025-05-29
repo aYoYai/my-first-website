@@ -35,9 +35,9 @@
 <body>
   <div class="container">
     <h1>ようこそ!</h1>
-    <p><strong>名前:</strong> [自分の名前に置き換える]</p>
-    <p><strong>学部学科:</strong> [自分の学部学科に置き換える]</p>
-    <p><strong>趣味:</strong> [趣味1]、[趣味2]、[趣味3]</p>
+    <p><strong>初めまして:</strong> [世界]</p>
+    <p><strong>趣味:</strong> [寝ること]</p>
+    <p><strong>やりたいこと:</strong> [自作PCを作りたい！！！！]</p>
   </div>
 </body>
 </html>
